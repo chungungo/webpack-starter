@@ -1,0 +1,4 @@
+npm install webpack webpack-cli --save-dev
+después de escribir el build, y para todo cambio: npm run build
+
+npm i -D html-loader html-webpack-plugin : permite mover el archivo html al dist y le dice al webpack que incruste el boundle en el index
